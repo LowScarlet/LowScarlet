@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tegar Maulana Fahreza (Low_Scarlet)</h1>
 <h3 align="center">A passionate frontend developer & backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lowscarlet&label=Profile%20views&color=0e75b6&style=flat" alt="lowscarlet" /> </p>
+<div align="center">
+<img src="https://discord.c99.nl/widget/theme-2/850817443454255104.png" />
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lowscarlet&label=Profile%20views&color=0e75b6&style=flat" alt="lowscarlet" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
