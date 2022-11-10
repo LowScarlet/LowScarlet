@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tegar Maulana Fahreza (Low_Scarlet)</h1>
-<h3 align="center">A passionate frontend developer & backend developer from Indonesia</h3>
+<h3 align="center">I am a full stack website developer from Indonesia</h3>
 
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-2/850817443454255104.png" />
@@ -7,26 +7,61 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lowscarlet&label=Profile%20views&color=0e75b6&style=flat" alt="lowscarlet" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+<h3 align="left">About me:</h3>
+
+- 🌱 I’m currently learning **Next.js**, **Discord.js**, **Express.js** & **Android Studio**
 
 - 🤝 I’m looking for help with [Pumpkin Project](https://pumpkinproject.my.id)
 
-- 👨‍💻 All of my projects are available at [low_scarlet.my.id](https://lowscarlet.my.id)
+- 👨‍💻 All of my projects are available at [lowscarlet.my.id](https://lowscarlet.my.id) or [This Github](https://github.com/LowScarlet?tab=stars)
 
-- 💬 Ask me about **backend & frontend**
+- 💬 Ask me about **Developing backend and frontend websites**
 
-- 📫 How to reach me **tegarmaulanafahreza@gmail.com**
+- 📫 How to reach me **tegarmaulanafahreza@gmail.com** or **email@lowscarlet.my.id**
 
-- 📄 Know about my experiences [low_scarlet.my.id/resume](https://lowscarlet.my.id/resume)
+- 📄 Know about my experiences [lowscarlet.my.id/resume](https://lowscarlet.my.id/resume)
 
-- ⚡ Fun fact **I am a lover of the digital world**
+- ⚡ Fun fact **I can lock myself in my office for 120 hours without going out at all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tegarmaulana.fahreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tegarmaulana.fahreza" height="30" width="40" /></a>
-<a href="https://instagram.com/lowscarlet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lowscarlet" height="30" width="40" /></a>
-<a href="https://discord.gg/UYhQCqUj6F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UYhQCqUj6F" height="30" width="40" /></a>
+<a href="https://fb.com/tegarmaulana.fahreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/sosmed/facebook.svg" alt="tegarmaulana.fahreza" height="30" width="40" /></a>
+<a href="https://instagram.com/lowscarlet" target="blank"><img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/sosmed/instagram.svg" alt="lowscarlet" height="30" width="40" /></a>
+<a href="https://discord.gg/UYhQCqUj6F" target="blank"><img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/sosmed/discord.svg" alt="UYhQCqUj6F" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/css3.svg" alt="CSS3" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/html5.svg" alt="HTML5" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/java.svg" alt="Java" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/javascript.svg" alt="JavaScript" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/php.svg" alt="PHP" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/python.svg" alt="Python" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/typescript.svg" alt="TypeScript" height="30" width="40" />
+</p>
+
+<h3 align="left">Framework:</h3>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/bootstrap.svg" alt="Bootstrap" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/django.svg" alt="Django" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/laravel.svg" alt="Laravel" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/next.svg" alt="Next.js" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/react.svg" alt="React.js" height="30" width="40" />
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/amazon.svg" alt="Amazon" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/azure.svg" alt="Azure" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/docker.svg" alt="Docker" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/figma.svg" alt="Figma" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/git.svg" alt="Git" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/linux.svg" alt="Linux" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/nginx.svg" alt="Nginx" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/nodejs.svg" alt="Node.js" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postgesql.svg" alt="Postgresql" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postman.svg" alt="Postman" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/unity.svg" alt="Unity" height="30" width="40" />
+</p>
+
