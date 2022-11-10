@@ -33,12 +33,19 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/css3.svg" alt="CSS3" height="30" width="40" />
+<img align="center" src="https://progress-bar.dev/75?title=CSS3" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/html5.svg" alt="HTML5" height="30" width="40" />
+<img align="center" src="https://progress-bar.dev/95?title=HTML5" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/java.svg" alt="Java" height="30" width="40" />
+<img align="center" src="https://progress-bar.dev/75?title=Java" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/javascript.svg" alt="JavaScript" height="30" width="40" />
+<img align="center" src="https://progress-bar.dev/80?title=Javascript" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/php.svg" alt="PHP" height="30" width="40" />
+<img align="center" src="https://progress-bar.dev/50?title=PHP" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/python.svg" alt="Python" height="30" width="40" />
+<img align="center" src="https://progress-bar.dev/90?title=Python" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/typescript.svg" alt="TypeScript" height="30" width="40" />
+<img align="center" src="https://progress-bar.dev/80?title=Typescript" />
 </p>
 
 <h3 align="left">Framework:</h3>
@@ -64,4 +71,3 @@
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postman.svg" alt="Postman" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/unity.svg" alt="Unity" height="30" width="40" />
 </p>
-
