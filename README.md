@@ -67,7 +67,7 @@
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/linux.svg" alt="Linux" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/nginx.svg" alt="Nginx" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/nodejs.svg" alt="Node.js" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postgesql.svg" alt="Postgresql" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postgresql.svg" alt="Postgresql" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postman.svg" alt="Postman" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/unity.svg" alt="Unity" height="30" width="40" />
 </p>
