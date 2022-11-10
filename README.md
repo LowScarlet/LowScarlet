@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with [Pumpkin Project](https://pumpkinproject.my.id)
 
-- 👨‍💻 All of my projects are available at [low_scarlet.my.id](https://low_scarlet.my.id)
+- 👨‍💻 All of my projects are available at [low_scarlet.my.id](https://lowscarlet.my.id)
 
 - 💬 Ask me about **backend & frontend**
 
 - 📫 How to reach me **tegarmaulanafahreza@gmail.com**
 
-- 📄 Know about my experiences [low_scarlet.my.id/resume](https://low_scarlet.my.id/resume)
+- 📄 Know about my experiences [low_scarlet.my.id/resume](https://lowscarlet.my.id/resume)
 
 - ⚡ Fun fact **I am a lover of the digital world**
 
