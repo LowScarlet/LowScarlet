@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tegarmaulanafahreza@gmail.com** or **email@lowscarlet.my.id**
 
-- 📄 Know about my experiences [lowscarlet.my.id/resume](https://lowscarlet.my.id/resume)
+- 📄 Know about my experiences [lowscarlet.my.id](https://lowscarlet.my.id)
 
 - ⚡ Fun fact **I can lock myself in my office for 120 hours without going out at all**
 
