@@ -9,7 +9,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Next.js**, **Discord.js**, **Express.js** & **Android Studio**
+- 🌱 I’m currently learning **Express.js** & **Mobile Application (Android/IOS)**
 
 - 🤝 I’m looking for help with [Pumpkin Project](https://pumpkinproject.my.id)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Developing backend and frontend websites**
 
-- 📫 How to reach me **tegarmaulanafahreza@gmail.com** or **email@lowscarlet.my.id**
+- 📫 How to reach me **tegarmaulanafahreza@gmail.com**
 
 - 📄 Know about my experiences [lowscarlet.my.id](https://lowscarlet.my.id)
 
