@@ -42,7 +42,7 @@
 </p>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowScarlet&layout=compact" alt="lowscarlet" /> </p>
 
-<h3 align="left">Framework:</h3>
+<h3 align="left">Techs:</h3>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/bootstrap.svg" alt="Bootstrap" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/django.svg" alt="Django" height="30" width="30" />
