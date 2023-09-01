@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [lowscarlet.my.id](https://lowscarlet.my.id)
 
-- ⚡ Fun fact **I can lock myself in my office for 120 hours without going out at all**
+- ⚡ Fun fact **I can lock myself in my office for 48 hours without going out at all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
