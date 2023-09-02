@@ -40,7 +40,6 @@
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/php.svg" alt="PHP" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/python.svg" alt="Python" height="30" width="30" />
 </p>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowScarlet&layout=compact" alt="lowscarlet" /> </p>
 
 <h3 align="left">Techs:</h3>
 <p align="left">
