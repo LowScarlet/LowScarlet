@@ -62,5 +62,4 @@
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/nodejs.svg" alt="Node.js" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postgresql.svg" alt="Postgresql" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/postman.svg" alt="Postman" height="30" width="30" />
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/unity.svg" alt="Unity" height="30" width="30" />
 </p>
