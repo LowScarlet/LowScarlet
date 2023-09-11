@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tegar Maulana Fahreza (Low_Scarlet)</h1>
+<h1 align="center">Hi 👋, I'm Tegar Maulana Fahreza (LowScarlet)</h1>
 <h3 align="center">I am a website developer from Indonesia</h3>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Next.js 13** & **Mobile Application (Android/IOS)**
+- 🌱 I’m currently learning **Three.js** & **Mobile Application (Android/IOS)**
 
 - 🤝 I’m looking for help with [Pumpkin Project](https://pumpkinproject.my.id)
 
@@ -20,8 +20,6 @@
 - 📫 How to reach me **tegarmaulanafahreza@gmail.com**
 
 - 📄 Know about my experiences [lowscarlet.my.id](https://lowscarlet.my.id)
-
-- ⚡ Fun fact **I can lock myself in my office for 48 hours without going out at all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,8 +41,6 @@
 
 <h3 align="left">Techs:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/bootstrap.svg" alt="Bootstrap" height="30" width="30" />
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/django.svg" alt="Django" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/laravel.svg" alt="Laravel" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/next.svg" alt="Next.js" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/react.svg" alt="React.js" height="30" width="30" />
@@ -55,7 +51,6 @@
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/amazon.svg" alt="Amazon" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/azure.svg" alt="Azure" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/docker.svg" alt="Docker" height="30" width="30" />
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/figma.svg" alt="Figma" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/git.svg" alt="Git" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/linux.svg" alt="Linux" height="30" width="30" />
 <img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/tools/nginx.svg" alt="Nginx" height="30" width="30" />
