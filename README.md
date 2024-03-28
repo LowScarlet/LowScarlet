@@ -9,7 +9,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Three.js** & **Mobile Application (Android/IOS)**
+- 🌱 I’m currently learning **Express.js (I'm Stuck :< )** & **Mobile Application (Android/IOS)**
 
 - 🤝 I’m looking for help with [Pumpkin Project](https://pumpkinproject.my.id)
 
