@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tegar Maulana Fahreza (LowScarlet)</h1>
-<h3 align="center">I am a website developer from Indonesia</h3>
+<h3 align="center">I am a science student from Indonesia</h3>
 
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-2/850817443454255104.png" />
