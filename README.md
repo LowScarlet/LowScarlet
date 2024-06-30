@@ -4,6 +4,9 @@
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-2/850817443454255104.png" />
 </div>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/lowscarlet?theme=forest&font=Della%20Respira&ext=activity" />
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lowscarlet&label=Profile%20views&color=0e75b6&style=flat" alt="lowscarlet" /> </p>
 
