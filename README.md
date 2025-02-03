@@ -2,9 +2,6 @@
 <h3 align="center">I am a science student from Indonesia</h3>
 
 <div align="center">
-<img src="https://discord.c99.nl/widget/theme-2/850817443454255104.png" />
-</div>
-<div align="center">
 <img src="https://leetcard.jacoblin.cool/lowscarlet?theme=forest&font=Della%20Respira&ext=activity" />
 </div>
 
