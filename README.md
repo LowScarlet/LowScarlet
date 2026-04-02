@@ -2,7 +2,6 @@
 <h3 align="center">I am a computer science student from Indonesia</h3>
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/lowscarlet?theme=forest&font=Della%20Respira&ext=activity" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lowscarlet&label=Profile%20views&color=0e75b6&style=flat" alt="lowscarlet" /> </p>
@@ -27,15 +26,9 @@
 <a href="https://instagram.com/lowscarlet" target="blank"><img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/sosmed/instagram.svg" alt="lowscarlet" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Favorite Programing Languages:</h3>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/typescript.svg" alt="TypeScript" height="30" width="30" />
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/languages/python.svg" alt="Python" height="30" width="30" />
-</p>
-
 <h3 align="left">Favorite Techs:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/LowScarlet/LowScarlet/main/icon/framework/next.svg" alt="Next.js" height="30" width="30" />
+Next.Js, Express.Js, Drizzle Orm, Postgresql, Shadcn UI, Tailwind
 </p>
 
 <h3 align="left">Favorite Tools:</h3>
