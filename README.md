@@ -12,7 +12,7 @@
 - 🤝 I’m not looking for any help yet
 - 👨‍💻 All of my projects are available at [lowscarlet.my.id](https://lowscarlet.my.id) or [My GitHub](https://github.com/LowScarlet?tab=stars)
 - 💬 Ask me about **Developing backend and frontend websites**
-- 📫 How to reach me: **tegarmaulanafahreza@gmail.com** or **email@lowscarlet.my.id**
+- 📫 How to reach me: **tegarmaulanafahreza.email@gmail.com** or **email@lowscarlet.my.id**
 - 📄 Know about my experiences: [lowscarlet.my.id](https://lowscarlet.my.id)
 
 ---
